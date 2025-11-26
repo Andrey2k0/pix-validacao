@@ -134,16 +134,3 @@ Andrey
 Gustavo
 
 Matheus
-
-Projeto desenvolvido para fins acadêmicos - 2025.
-
-
-***
-
-### ⚠️ Não esqueça!
-Depois de colar esse novo texto no IntelliJ:
-1.  Aperte `Ctrl + K` (Commit).
-2.  Escreva "Atualizando README com passo a passo".
-3.  Clique em **Commit and Push**.
-
-Agora seu GitHub vai ter a documentação perfeita! 🚀
